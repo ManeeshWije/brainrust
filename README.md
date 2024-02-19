@@ -1,2 +1,2 @@
 # brainrust
-A brainfuck interpreter written in Rust
+A brainf*ck interpreter written in Rust
